@@ -1,0 +1,25 @@
+<div class="container">
+  <form [formGroup]="touristService.formModel" autocomplete="off" (submit)="onSubmit()">
+    
+    <!-- <div class="form-group">
+      <label>Image</label>
+      <img alt="Post Image" style="height: 250px; width: 250px;">
+      <input type="file" class="form-control" formControlName="ImageFile">
+    </div> -->
+
+    <div class="form-group">
+      <label for="exampleInputTitle">Title</label>
+      <input type="text" class="form-control" id="exampleInputTitle" formControlName="Title" placeholder="Title" required>
+    </div>
+
+    <div class="form-group">
+      <label for="exampleInputDescription">Description</label>
+      <textarea class="form-control" id="exampleInputDescription" formControlName="Description" id="" cols="30" rows="10" required>
+
+      </textarea>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Submit</button>
+  </form>
+</div>
+  

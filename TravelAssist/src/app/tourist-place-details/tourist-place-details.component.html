@@ -1,0 +1,10 @@
+<div class="container">
+
+    <div *ngFor="let details of service.TouristPlacelist">
+        <a routerLink="/Edit/:{{details.id}}">
+            <h3>{{details.title}}</h3>
+        </a>
+        <p>{{details.description}}</p>
+    </div>
+
+</div>
