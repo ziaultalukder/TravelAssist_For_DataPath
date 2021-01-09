@@ -1,0 +1,550 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Projects\\TravelAssist\\TravelAssist\\TravelAssist.csproj": {}
+  },
+  "projects": {
+    "F:\\Projects\\TravelAssist\\TravelAssist.BLL.Contracts\\TravelAssist.BLL.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TravelAssist\\TravelAssist.BLL.Contracts\\TravelAssist.BLL.Contracts.csproj",
+        "projectName": "TravelAssist.BLL.Contracts",
+        "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.BLL.Contracts\\TravelAssist.BLL.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Ziaul Talukder\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TravelAssist\\TravelAssist.BLL.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ziaul Talukder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Projects\\TravelAssist\\TravelAssist.Models.Contracts\\TravelAssist.Models.Contracts.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models.Contracts\\TravelAssist.Models.Contracts.csproj"
+              },
+              "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\TravelAssist\\TravelAssist.BLL\\TravelAssist.BLL.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TravelAssist\\TravelAssist.BLL\\TravelAssist.BLL.csproj",
+        "projectName": "TravelAssist.BLL",
+        "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.BLL\\TravelAssist.BLL.csproj",
+        "packagesPath": "C:\\Users\\Ziaul Talukder\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TravelAssist\\TravelAssist.BLL\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ziaul Talukder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Projects\\TravelAssist\\TravelAssist.BLL.Contracts\\TravelAssist.BLL.Contracts.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.BLL.Contracts\\TravelAssist.BLL.Contracts.csproj"
+              },
+              "F:\\Projects\\TravelAssist\\TravelAssist.Repository.Contracts\\TravelAssist.Repository.Contracts.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Repository.Contracts\\TravelAssist.Repository.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\TravelAssist\\TravelAssist.Models.Contracts\\TravelAssist.Models.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TravelAssist\\TravelAssist.Models.Contracts\\TravelAssist.Models.Contracts.csproj",
+        "projectName": "TravelAssist.Models.Contracts",
+        "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models.Contracts\\TravelAssist.Models.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Ziaul Talukder\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ziaul Talukder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj",
+        "projectName": "TravelAssist.Models",
+        "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj",
+        "packagesPath": "C:\\Users\\Ziaul Talukder\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ziaul Talukder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Projects\\TravelAssist\\TravelAssist.Models.Contracts\\TravelAssist.Models.Contracts.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models.Contracts\\TravelAssist.Models.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\TravelAssist\\TravelAssist.Repository.Contracts\\TravelAssist.Repository.Contracts.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TravelAssist\\TravelAssist.Repository.Contracts\\TravelAssist.Repository.Contracts.csproj",
+        "projectName": "TravelAssist.Repository.Contracts",
+        "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Repository.Contracts\\TravelAssist.Repository.Contracts.csproj",
+        "packagesPath": "C:\\Users\\Ziaul Talukder\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TravelAssist\\TravelAssist.Repository.Contracts\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ziaul Talukder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Projects\\TravelAssist\\TravelAssist.Models.Contracts\\TravelAssist.Models.Contracts.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models.Contracts\\TravelAssist.Models.Contracts.csproj"
+              },
+              "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\TravelAssist\\TravelAssist.Repository\\TravelAssist.Repository.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TravelAssist\\TravelAssist.Repository\\TravelAssist.Repository.csproj",
+        "projectName": "TravelAssist.Repository",
+        "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Repository\\TravelAssist.Repository.csproj",
+        "packagesPath": "C:\\Users\\Ziaul Talukder\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TravelAssist\\TravelAssist.Repository\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ziaul Talukder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj"
+              },
+              "F:\\Projects\\TravelAssist\\TravelAssist.Repository.Contracts\\TravelAssist.Repository.Contracts.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Repository.Contracts\\TravelAssist.Repository.Contracts.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\Projects\\TravelAssist\\TravelAssist\\TravelAssist.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Projects\\TravelAssist\\TravelAssist\\TravelAssist.csproj",
+        "projectName": "TravelAssist",
+        "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist\\TravelAssist.csproj",
+        "packagesPath": "C:\\Users\\Ziaul Talukder\\.nuget\\packages\\",
+        "outputPath": "F:\\Projects\\TravelAssist\\TravelAssist\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ziaul Talukder\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "F:\\Projects\\TravelAssist\\TravelAssist.BLL.Contracts\\TravelAssist.BLL.Contracts.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.BLL.Contracts\\TravelAssist.BLL.Contracts.csproj"
+              },
+              "F:\\Projects\\TravelAssist\\TravelAssist.BLL\\TravelAssist.BLL.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.BLL\\TravelAssist.BLL.csproj"
+              },
+              "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Models\\TravelAssist.Models.csproj"
+              },
+              "F:\\Projects\\TravelAssist\\TravelAssist.Repository.Contracts\\TravelAssist.Repository.Contracts.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Repository.Contracts\\TravelAssist.Repository.Contracts.csproj"
+              },
+              "F:\\Projects\\TravelAssist\\TravelAssist.Repository\\TravelAssist.Repository.csproj": {
+                "projectPath": "F:\\Projects\\TravelAssist\\TravelAssist.Repository\\TravelAssist.Repository.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[3.1.10, 3.1.10]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[3.1.10, 3.1.10]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

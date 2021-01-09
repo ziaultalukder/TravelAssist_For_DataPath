@@ -1,0 +1,8 @@
+F:\Projects\TravelAssist\TravelAssist.Models.Contracts\bin\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.deps.json
+F:\Projects\TravelAssist\TravelAssist.Models.Contracts\bin\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.dll
+F:\Projects\TravelAssist\TravelAssist.Models.Contracts\bin\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.pdb
+F:\Projects\TravelAssist\TravelAssist.Models.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.AssemblyInfoInputs.cache
+F:\Projects\TravelAssist\TravelAssist.Models.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.AssemblyInfo.cs
+F:\Projects\TravelAssist\TravelAssist.Models.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.csproj.CoreCompileInputs.cache
+F:\Projects\TravelAssist\TravelAssist.Models.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.dll
+F:\Projects\TravelAssist\TravelAssist.Models.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.pdb

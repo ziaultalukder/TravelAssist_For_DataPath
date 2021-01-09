@@ -1,0 +1,15 @@
+F:\Projects\TravelAssist\TravelAssist.Models\bin\Debug\netcoreapp3.1\TravelAssist.Models.deps.json
+F:\Projects\TravelAssist\TravelAssist.Models\bin\Debug\netcoreapp3.1\TravelAssist.Models.runtimeconfig.json
+F:\Projects\TravelAssist\TravelAssist.Models\bin\Debug\netcoreapp3.1\TravelAssist.Models.runtimeconfig.dev.json
+F:\Projects\TravelAssist\TravelAssist.Models\bin\Debug\netcoreapp3.1\TravelAssist.Models.dll
+F:\Projects\TravelAssist\TravelAssist.Models\bin\Debug\netcoreapp3.1\TravelAssist.Models.pdb
+F:\Projects\TravelAssist\TravelAssist.Models\obj\Debug\netcoreapp3.1\TravelAssist.Models.csprojAssemblyReference.cache
+F:\Projects\TravelAssist\TravelAssist.Models\obj\Debug\netcoreapp3.1\TravelAssist.Models.AssemblyInfoInputs.cache
+F:\Projects\TravelAssist\TravelAssist.Models\obj\Debug\netcoreapp3.1\TravelAssist.Models.AssemblyInfo.cs
+F:\Projects\TravelAssist\TravelAssist.Models\obj\Debug\netcoreapp3.1\TravelAssist.Models.csproj.CoreCompileInputs.cache
+F:\Projects\TravelAssist\TravelAssist.Models\obj\Debug\netcoreapp3.1\TravelAssist.Models.dll
+F:\Projects\TravelAssist\TravelAssist.Models\obj\Debug\netcoreapp3.1\TravelAssist.Models.pdb
+F:\Projects\TravelAssist\TravelAssist.Models\obj\Debug\netcoreapp3.1\TravelAssist.Models.genruntimeconfig.cache
+F:\Projects\TravelAssist\TravelAssist.Models\bin\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.dll
+F:\Projects\TravelAssist\TravelAssist.Models\bin\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.pdb
+F:\Projects\TravelAssist\TravelAssist.Models\obj\Debug\netcoreapp3.1\TravelAssist.Models.csproj.CopyComplete

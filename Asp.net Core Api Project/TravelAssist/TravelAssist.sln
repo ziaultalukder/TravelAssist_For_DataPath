@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAssist", "TravelAssist\TravelAssist.csproj", "{BD90A865-5040-4A2A-94BD-E4F06F16CB5B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAssist.Models", "TravelAssist.Models\TravelAssist.Models.csproj", "{D847F468-B448-4A69-9644-1F7DC020DF9E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAssist.Models.Contracts", "TravelAssist.Models.Contracts\TravelAssist.Models.Contracts.csproj", "{8745F408-0444-4DB7-AA47-91FE2BFF46E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAssist.BLL", "TravelAssist.BLL\TravelAssist.BLL.csproj", "{8F324790-8737-49A1-A872-BBF63B8526B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAssist.BLL.Contracts", "TravelAssist.BLL.Contracts\TravelAssist.BLL.Contracts.csproj", "{73200DA7-614F-4D9D-ABDB-FCADCCACAD8E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAssist.Repository", "TravelAssist.Repository\TravelAssist.Repository.csproj", "{54FEE58E-2609-4E7B-8969-EE2EDF465CC6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelAssist.Repository.Contracts", "TravelAssist.Repository.Contracts\TravelAssist.Repository.Contracts.csproj", "{7344DB52-2CE5-4107-8426-6D09070D7C67}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD90A865-5040-4A2A-94BD-E4F06F16CB5B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD90A865-5040-4A2A-94BD-E4F06F16CB5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD90A865-5040-4A2A-94BD-E4F06F16CB5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD90A865-5040-4A2A-94BD-E4F06F16CB5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D847F468-B448-4A69-9644-1F7DC020DF9E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D847F468-B448-4A69-9644-1F7DC020DF9E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D847F468-B448-4A69-9644-1F7DC020DF9E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D847F468-B448-4A69-9644-1F7DC020DF9E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8745F408-0444-4DB7-AA47-91FE2BFF46E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8745F408-0444-4DB7-AA47-91FE2BFF46E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8745F408-0444-4DB7-AA47-91FE2BFF46E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8745F408-0444-4DB7-AA47-91FE2BFF46E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8F324790-8737-49A1-A872-BBF63B8526B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8F324790-8737-49A1-A872-BBF63B8526B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8F324790-8737-49A1-A872-BBF63B8526B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8F324790-8737-49A1-A872-BBF63B8526B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73200DA7-614F-4D9D-ABDB-FCADCCACAD8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73200DA7-614F-4D9D-ABDB-FCADCCACAD8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73200DA7-614F-4D9D-ABDB-FCADCCACAD8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73200DA7-614F-4D9D-ABDB-FCADCCACAD8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54FEE58E-2609-4E7B-8969-EE2EDF465CC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54FEE58E-2609-4E7B-8969-EE2EDF465CC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54FEE58E-2609-4E7B-8969-EE2EDF465CC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54FEE58E-2609-4E7B-8969-EE2EDF465CC6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7344DB52-2CE5-4107-8426-6D09070D7C67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7344DB52-2CE5-4107-8426-6D09070D7C67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7344DB52-2CE5-4107-8426-6D09070D7C67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7344DB52-2CE5-4107-8426-6D09070D7C67}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {86B44358-173F-404E-835F-2A52E76A1D35}
+	EndGlobalSection
+EndGlobal

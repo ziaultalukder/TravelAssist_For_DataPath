@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\TravelAssist.Models\TravelAssist.Models.csproj" />
+    <ProjectReference Include="..\TravelAssist.Repository.Contracts\TravelAssist.Repository.Contracts.csproj" />
+  </ItemGroup>
+
+</Project>

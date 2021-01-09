@@ -1,0 +1,14 @@
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\bin\Debug\netcoreapp3.1\TravelAssist.Repository.Contracts.deps.json
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\bin\Debug\netcoreapp3.1\TravelAssist.Repository.Contracts.dll
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\bin\Debug\netcoreapp3.1\TravelAssist.Repository.Contracts.pdb
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\bin\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.dll
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\bin\Debug\netcoreapp3.1\TravelAssist.Models.dll
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\bin\Debug\netcoreapp3.1\TravelAssist.Models.Contracts.pdb
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\bin\Debug\netcoreapp3.1\TravelAssist.Models.pdb
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Repository.Contracts.csprojAssemblyReference.cache
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Repository.Contracts.AssemblyInfoInputs.cache
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Repository.Contracts.AssemblyInfo.cs
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Repository.Contracts.csproj.CoreCompileInputs.cache
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Repository.Contracts.csproj.CopyComplete
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Repository.Contracts.dll
+F:\Projects\TravelAssist\TravelAssist.Repository.Contracts\obj\Debug\netcoreapp3.1\TravelAssist.Repository.Contracts.pdb
